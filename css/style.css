@@ -1,0 +1,21 @@
+.bigFont{
+    font-size: 75px;
+}
+.blackFont{
+    color: black;
+}
+
+.sectionStyle{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.row {
+    -ms-flex-wrap: nowrap;
+    flex-wrap: nowrap;
+}
+
+.learningCard{
+    height: 150px; width:150px; border-radius: 50%;
+    border: 1px solid red;
+}
